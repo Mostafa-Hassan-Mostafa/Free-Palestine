@@ -2,7 +2,7 @@
 <h1 align="center">🇵🇸 Palestine Flag Drawing</h1>
 <h3 align="center">Python Turtle Graphics - Drawing the Palestinian Flag</h3>
 
-<!-- Typing Animation - Palestine Flag Colors with Gray Background -->
+<!-- Typing Animation - Sequential Palestine Flag Colors -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FF0000&background=808080&center=true&vCenter=true&width=600&lines=Turtle+Graphics" alt="Typing Animation Red" />
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FFFFFF&background=808080&center=true&vCenter=true&width=600&lines=Shape+Drawing" alt="Typing Animation White" />
