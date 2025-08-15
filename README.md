@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FF0000,FFFFFF,000000,008000&center=true&vCenter=true&width=600&lines=Turtle+Graphics;Shape+Drawing;Color+Fill;Text+Annotation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FF0000/FFFFFF/000000/008000&center=true&vCenter=true&width=600&lines=Turtle+Graphics;Shape+Drawing;Color+Fill;Text+Annotation" alt="Typing Animation" />
 </p>
 
 ---
