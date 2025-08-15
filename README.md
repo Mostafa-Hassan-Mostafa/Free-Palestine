@@ -2,9 +2,12 @@
 <h1 align="center">🇵🇸 Palestine Flag Drawing</h1>
 <h3 align="center">Python Turtle Graphics - Drawing the Palestinian Flag</h3>
 
-<!-- Typing Animation -->
+<!-- Typing Animation - Palestine Flag Colors -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=4CAF50&center=true&vCenter=true&width=600&lines=Turtle+Graphics;Shape+Drawing;Color+Fill;Text+Annotation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Turtle+Graphics;Shape+Drawing;Color+Fill;Text+Annotation" alt="Typing Animation Red" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turtle+Graphics;Shape+Drawing;Color+Fill;Text+Annotation" alt="Typing Animation White" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Turtle+Graphics;Shape+Drawing;Color+Fill;Text+Annotation" alt="Typing Animation Black" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=008000&center=true&vCenter=true&width=600&lines=Turtle+Graphics;Shape+Drawing;Color+Fill;Text+Annotation" alt="Typing Animation Green" />
 </p>
 
 ---
